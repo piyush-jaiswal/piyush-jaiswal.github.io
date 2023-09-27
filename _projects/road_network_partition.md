@@ -5,7 +5,7 @@ description: This project aimed at improving the scalability as well as the accu
 img: assets/img/road_network_partitioning/partitioned.jpg
 importance: 2
 github: https://github.com/piyush-jaiswal/road-network-partitioning-for-recommender-systems
-# width2: true
+width2: true
 ---
 
 Recommender systems have been successfully used to provide items of interest to the user, from an overwhelming set of choices. However, where items being recommended have an associated location, by Tobler's First Law of Geography, there is a general preference for things nearby. This aspect of locality can be leveraged not only to improve the quality and accuracy of recommendations, but also the scalability of the recommendation algorithm by suitably partitioning the road network used for travelling to the places being recommended.

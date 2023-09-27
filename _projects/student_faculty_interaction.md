@@ -5,7 +5,7 @@ description: A web platform for students and faculty to assess topic understandi
 img: assets/img/student_faculty_interaction/course_handout.jpg
 importance: 3
 github: https://github.com/piyush-jaiswal/Student-Faculty-Interaction
-# width2: true
+width2: true
 ---
 
 I designed and developed a platform to bridge the gap between faculty and students in assessing topic understanding. The software addresses the challenge faced by faculties in determining the comprehension level of students for specific topics taught in class. It provides real-time coverage of lecture topics, allowing students to rate their understanding. 
