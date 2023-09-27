@@ -83,6 +83,16 @@
                   {% endfor %}
                 </div>
               </li>
+              
+              {%- elsif p.title == "cv" %}
+              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                <a class="nav-link" href="https://docs.google.com/document/d/1GNGtVQWkrWQpmgC3c8Lj-mI8WvrlgpwC2a9AmFYGz40/edit?usp=sharing" target="_blank">{{ p.title }}
+                  {%- if page.title == p.title -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
                 <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
