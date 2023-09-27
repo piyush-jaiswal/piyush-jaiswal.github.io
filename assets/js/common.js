@@ -35,6 +35,7 @@ $(document).ready(function() {
   }
 
   $('.jupyter-notebook-iframe-container iframe').each(function() {
+    $(this).attr("scrolling", "no");
     $(this).contents().find("head").append(cssLink);
 
     if (theme == "dark") {
