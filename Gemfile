@@ -17,10 +17,10 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer' # Uncomment for local setup without docker
+    gem 'mini_racer' # Comment for local setup
     gem 'unicode_utils'
     gem 'webrick'
-    # gem 'wdm', '~> 0.1.0' # Comment for local setup without docker
+    # gem 'wdm', '~> 0.1.0' # Uncomment for local setup
 end
 group :other_plugins do
     gem 'feedjira'
