@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Piyush Jaiswal's Developer Portfolio # the website title (if blank, full name will be used instead)
 first_name: Piyush
 middle_name: 
 last_name: Jaiswal
 email: piyushjf@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for Piyush Jaiswal.
+  Seasoned software developer who likes to dive deep. Open source contributor, competitive coder and a critical thinker
 footer_text:
 keywords: piyush-jaiswal, piyush, jaiswal, portfolio-website, dijkstra-as-a-comic, optmyzr, tomtom  # add your own keywords or leave empty
 
