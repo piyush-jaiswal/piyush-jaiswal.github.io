@@ -3,7 +3,7 @@ layout: page
 title: Student Faculty Interaction
 description: A web platform for students and faculty to assess topic understanding in real-time, enhancing teaching effectiveness through aggregate ratings and secure access to course materials while promoting better interaction.
 img: assets/img/student_faculty_interaction/course_handout.jpg
-importance: 3
+importance: 5
 github: https://github.com/piyush-jaiswal/Student-Faculty-Interaction
 width2: true
 ---

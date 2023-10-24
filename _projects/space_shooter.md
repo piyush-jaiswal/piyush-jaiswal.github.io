@@ -9,7 +9,7 @@ description: >
     Shoot - <b>Left click / left CTRL</b> <br>
     Restart - <b>R (when game over)</b>
 img: assets/img/space_shooter/SpaceShooter.gif
-importance: 5
+importance: 6
 github: https://github.com/piyush-jaiswal/space-shooter
 redirect: https://piyush-jaiswal.github.io/space-shooter/
 ---
