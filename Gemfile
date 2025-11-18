@@ -17,12 +17,13 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer' # Comment for local setup
+    gem 'jekyll-redirect-from'
     gem 'unicode_utils'
     gem 'webrick'
-    # gem 'wdm', '~> 0.1.0' # Uncomment for local setup
 end
 group :other_plugins do
+    # gem 'mini_racer' # Comment for local setup
+    # gem 'wdm', '~> 0.1.0' # Uncomment for local setup for windows
     gem 'feedjira'
     gem 'httparty'
 end

@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /open_source/
+permalink: /open-source/
+redirect_from:
+  - /open_source/
 title: open source
 description: open source contributions
 nav: true
