@@ -27,6 +27,16 @@ I am an open source enthusiast and like to give back to the community as much as
 
   <li>
     <h3>
+      <a class="post-title" href="https://github.com/marshmallow-code/marshmallow">marshmallow</a>
+    </h3>
+    <p> Identify and fix a silent infinte recursion bug on circular data structures in self-referential schema docs. </p>
+    <p class="post-tags">
+      <a href="https://github.com/marshmallow-code/marshmallow/pull/2938" target="_blank">https://github.com/marshmallow-code/marshmallow/pull/2938</a>
+    </p>
+  </li>
+
+  <li>
+    <h3>
       <a class="post-title" href="https://github.com/ternaus/TernausNetV2">TernausNetV2</a>
     </h3>
     <p>Solved error of building 'inplace_abn' in TernausNetV2 by using correct pytorch version.</p>
